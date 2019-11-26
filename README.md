@@ -7,6 +7,7 @@
 <img src = "https://i.imgur.com/nWHFLDf.jpg"></img>
 </p>
 
+
 <p align="center">
 <a href="https://www.patreon.com/bePatron?u=23238350"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"></img></a>
 </p>
